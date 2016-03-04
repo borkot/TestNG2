@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="DemoXMLFilecreation" verbose="1" >
+  <test name="demoxml" >
+    <classes>
+         <class name="seleniumTest.CNN" />
+    </classes>
+  </test>
+
+</suite>
